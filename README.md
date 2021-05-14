@@ -1,5 +1,7 @@
 # Minecraft_Tree
 Creator@Ruangyot 05/13/2021  
+Lecturer@Dr.Suradet Tantrairatn  
+
 This project is to study about multilayer perceptron.
 
 ## Create Datasets
