@@ -32,7 +32,7 @@ class ModelTester:
         
         print(f"activation: {self.activation} \tscore: {self.score}")
 ```
-Thus I can pass the activation and solver by just create a object with this class.
+Thus I can passed the activation and solver by just create a object with this class.
 
 ## Result
 Accuracy score of this model = 1.0 (Score from test data).
